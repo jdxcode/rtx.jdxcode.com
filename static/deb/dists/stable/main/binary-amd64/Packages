@@ -1,0 +1,17 @@
+Package: rtx
+Version: 1.5.1
+Architecture: amd64
+Maintainer: Jeff Dickey @jdxcode
+Installed-Size: 53632
+Filename: pool/main/rtx_1.5.1_amd64.deb
+Size: 11257482
+MD5sum: 990c6a6cdbe1c90c292af3480c77891b
+SHA1: 2322c5676a5595a9b1053533ffb9f989a3306324
+SHA256: 03c35cef4ad0b375448c6ee79cb55919a648ada2ca70c32c23c79a2bbcbe98b4
+Section: default
+Priority: extra
+Homepage: https://github.com/jdxcode/rtx
+Description: Polyglot runtime manager
+License: MIT
+Vendor: none
+

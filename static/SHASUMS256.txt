@@ -1,0 +1,12 @@
+cf175497ca54e8bc2e821419c763ef66e97058a49e6495d6466eacca00665008  ./rtx-latest-linux-arm64
+1a8491038447e88692820c487e331a520ceba2e4cf834970dbe20d215ec44b25  ./rtx-latest-linux-arm64.tar.gz
+6f4897989b42178a3518705d300c62ba37863485bd6e811be3d18c741f1aa92e  ./rtx-latest-linux-arm64.tar.xz
+4284bc74ea7006e424c70f9f69249662724af16a831c011a5df301f75543fada  ./rtx-latest-linux-x64
+009d260a937f6267fe6e5c0a3dcd8fe344c94527a160596926dad7cb36470e73  ./rtx-latest-linux-x64.tar.gz
+2b8e791652d25cb6d199cbedb6da68b1da75e3157b79784ceec918f9edc62c51  ./rtx-latest-linux-x64.tar.xz
+673d4c58f5e7eca30abecacab7444f0322e817dcce94ced7150cb9cf8e5dde05  ./rtx-latest-macos-arm64
+fbdb85f8cc432feb25bc3096ad5721c242b9fffb9d05f0b48f87d31fd56e8dae  ./rtx-latest-macos-arm64.tar.gz
+4e41ff0c37474019446447675f01c2f52251af42951500b48b6308c8d1df4d48  ./rtx-latest-macos-arm64.tar.xz
+8dc96f458fe8ece7a872d5b556b9ca2eb5a73442d3e1c4f4b094e15eb3bf1ae4  ./rtx-latest-macos-x64
+639e33f6403601f915ecaaa8aa21330427ca6870a95d74a243b3aa76d580b66a  ./rtx-latest-macos-x64.tar.gz
+a9de3518da4bd128e786327b049fdbe75d397f2b7377442a4da826ab796db997  ./rtx-latest-macos-x64.tar.xz
