@@ -55,10 +55,10 @@ get_checksum() {
 	os="$(get_os)"
 	arch="$(get_arch)"
 
-	checksum_linux_x86_64="8aef896d65af77c8ede5241081895c3aacd2e744c582ff2a57d257654c6fa191  ./rtx-v1.5.3-linux-x64.tar.gz"
-	checksum_linux_arm64="bdc0450887d47dec9594dc11f892a89f467d53bc7fd0b1d5b298fb59bf80a734  ./rtx-v1.5.3-linux-arm64.tar.gz"
-	checksum_macos_x86_64="860fa2fa20139042971eae963b0a5b006a4d6dd0ac16542801fff583c18837ec  ./rtx-v1.5.3-macos-x64.tar.gz"
-	checksum_macos_arm64="8e7b83239120d3694282e3e25218ee5cb5eedea6ba42e33aa48a012ca432002f  ./rtx-v1.5.3-macos-arm64.tar.gz"
+	checksum_linux_x86_64="e6f640cb10cba422a6ba9bd2e8511813232a5fef9293f3f849490a2fa187875b  ./rtx-v1.6.0-linux-x64.tar.gz"
+	checksum_linux_arm64="bfb8e06470e44d3e6ce23d7c42593071e7242e3cc9c214c259a2c2f9e6deae0e  ./rtx-v1.6.0-linux-arm64.tar.gz"
+	checksum_macos_x86_64="bfa8d3cf10959554fe62ea18557536ebbf01c0649dc98187bfe0ba51e3287897  ./rtx-v1.6.0-macos-x64.tar.gz"
+	checksum_macos_arm64="4dd7e178f4676dcd7b81bec9a9d63b892446a6af31a85190635ae19cb6e25ee3  ./rtx-v1.6.0-macos-arm64.tar.gz"
 
 	if [ "$os" = "linux" ] && [ "$arch" = "x64" ]; then
 		echo "$checksum_linux_x86_64"
@@ -101,7 +101,7 @@ download_file() {
 
 install_rtx() {
   # download the tarball
-  version="v1.5.3"
+  version="v1.6.0"
   os="$(get_os)"
   arch="$(get_arch)"
   xdg_data_home="${XDG_DATA_HOME:-$HOME/.local/share}"

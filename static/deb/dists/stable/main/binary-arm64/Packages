@@ -1,13 +1,13 @@
 Package: rtx
-Version: 1.5.3
+Version: 1.6.0
 Architecture: arm64
 Maintainer: Jeff Dickey @jdxcode
-Installed-Size: 56275
-Filename: pool/main/rtx_1.5.3_arm64.deb
-Size: 11176488
-MD5sum: 2c0e79685e59694a299cfbd436656ea4
-SHA1: f929ba0612eca690d5c7156ab244a21302b665fc
-SHA256: 5042fb33d1f7898c7a8e4537724df51b573406f59249fa1e9f38d2137d140a43
+Installed-Size: 56264
+Filename: pool/main/rtx_1.6.0_arm64.deb
+Size: 11178694
+MD5sum: e0c675a6d5ed98a1b068691f71eef173
+SHA1: c115a469a52dcaf6e5e9c472270ac7b76b7b21e3
+SHA256: d089e05b7176d5b8677fc51c812a24b2e96effde9c829d4fa5d31203b855fdfe
 Section: default
 Priority: extra
 Homepage: https://github.com/jdxcode/rtx
